@@ -657,13 +657,6 @@ All PRs undergo:
 - Ask in PR discussion
 - Comment on related issues
 
-### Discord Community
-- Join our Discord server for chat
-- Ask questions in #development channel
-- Share ideas in #feature-requests
-- Discuss code in #code-review
-
----
 
 ## 🎯 Good First Issues
 
