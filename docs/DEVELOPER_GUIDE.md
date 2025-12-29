@@ -108,8 +108,8 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/yourusername/sabil23.git
-   cd sabil23
+   git clone https://github.com/Youssoufboz/iftar-sabill-app-v01.git
+   cd sabil23v0
    ```
 
 2. **Set SDK Path**

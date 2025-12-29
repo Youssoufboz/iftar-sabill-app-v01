@@ -19,8 +19,8 @@ echo $ANDROID_HOME
 
 ### 2. Clone & Build
 ```bash
-git clone https://github.com/yourusername/sabil23.git
-cd sabil23
+git clone https://github.com/Youssoufboz/iftar-sabill-app-v01.git
+cd sabil23v0
 ./gradlew build
 ```
 

@@ -32,11 +32,11 @@ Thank you for your interest in contributing to Sabil 23! This document provides 
 ```bash
 # 1. Fork the repository on GitHub
 # 2. Clone your fork
-git clone https://github.com/yourusername/sabil23.git
-cd sabil23
+git clone https://github.com/Youssoufboz/iftar-sabill-app-v01.git
+cd sabil23v0
 
 # 3. Add upstream remote
-git remote add upstream https://github.com/original-owner/sabil23.git
+git remote add upstream https://github.com/Youssoufboz/iftar-sabill-app-v01.git
 
 # 4. Create local.properties
 echo "sdk.dir=/path/to/Android/Sdk" > local.properties
@@ -672,8 +672,8 @@ Looking for where to start? Check for issues labeled:
 
 ```bash
 # 1. Fork and clone
-git clone https://github.com/yourusername/sabil23.git
-cd sabil23
+git clone https://github.com/Youssoufboz/iftar-sabill-app-v01.git
+cd sabil23v0
 
 # 2. Create feature branch
 git checkout -b feature/add-search-filters
@@ -692,7 +692,7 @@ git commit -m "feat(search): add restaurant filtering by cuisine type"
 git push origin feature/add-search-filters
 
 # 6. Create Pull Request on GitHub
-# - Go to https://github.com/yourusername/sabil23
+# - Go to https://github.com/Youssoufboz/iftar-sabill-app-v01
 # - Click "New Pull Request"
 # - Fill in description
 # - Submit PR
