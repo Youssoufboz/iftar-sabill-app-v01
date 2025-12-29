@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Sabil23" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- Background colors -->
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="colorSurface">@color/colorBackground</item>
+        <item name="colorOnSurface">@color/colorTextPrimary</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/colorTextPrimary</item>
+        <item name="android:textColorSecondary">@color/colorTextSecondary</item>
+        <item name="android:textColorTertiary">@color/gray</item>
+        <item name="android:textColorHint">@color/gray</item>
+
+        <!-- Status bar and navigation bar -->
+        <item name="android:statusBarColor">@color/colorPrimary</item>
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+
+        <!-- Divider color -->
+        <item name="dividerColor">@color/lightGray</item>
+
+        <!-- EditText colors -->
+        <item name="editTextColor">@color/colorTextPrimary</item>
+        <item name="android:editTextColor">@color/colorTextPrimary</item>
+    </style>
+
+    <style name="Theme.Sabil23" parent="Base.Theme.Sabil23" />
+</resources>

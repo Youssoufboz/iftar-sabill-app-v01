@@ -1,0 +1,49 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+
+    <!-- Outer decorative circle with subtle details -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M120,30C70.29,30 30,70.29 30,120C30,169.71 70.29,210 120,210C169.71,210 210,169.71 210,120C210,70.29 169.71,30 120,30ZM120,200C75.82,200 40,164.18 40,120C40,75.82 75.82,40 120,40C164.18,40 200,75.82 200,120C200,164.18 164.18,200 120,200Z" />
+
+    <!-- Decorative inner ring -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M120,50C81.34,50 50,81.34 50,120C50,158.66 81.34,190 120,190C158.66,190 190,158.66 190,120C190,81.34 158.66,50 120,50ZM120,180C86.86,180 60,153.14 60,120C60,86.86 86.86,60 120,60C153.14,60 180,86.86 180,120C180,153.14 153.14,180 120,180Z" />
+
+    <!-- Elegant crescent moon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M120,70C93.49,70 72,91.49 72,118C72,144.51 93.49,166 120,166C120,139.49 141.49,118 168,118C141.49,118 120,96.51 120,70Z" />
+
+    <!-- Decorative stars -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M168,80L172,89L182,90L175,97L177,107L168,102L159,107L161,97L154,90L164,89Z" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M85,95L87,100L93,101L89,105L90,111L85,108L80,111L81,105L77,101L83,100Z" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M140,140L142,144L146,144L143,147L144,151L140,149L136,151L137,147L134,144L138,144Z" />
+
+    <!-- Decorative date palm silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M120,130C120,130 115,125 115,120C115,115 120,110 120,110C120,110 125,115 125,120C125,125 120,130 120,130Z" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M120,130L120,150C120,150 117,155 120,155C123,155 120,150 120,150Z" />
+
+    <!-- Decorative plate/food element -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M105,155C105,155 110,160 120,160C130,160 135,155 135,155C135,155 130,165 120,165C110,165 105,155 105,155Z" />
+</vector>
+
