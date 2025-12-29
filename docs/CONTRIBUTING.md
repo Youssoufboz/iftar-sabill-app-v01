@@ -735,14 +735,3 @@ Before submitting PR:
 
 ## 🙏 Thank You!
 
-Your contributions make Sabil 23 better for the entire Muslim community. Whether it's code, documentation, bug reports, or feature suggestions, your effort is appreciated!
-
-Happy contributing! 🚀
-
----
-
-**Last Updated**: December 2024
-
-For questions: developers@sabil23.com
-For issues: GitHub Issues page
-For discussions: GitHub Discussions page
