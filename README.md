@@ -578,16 +578,14 @@ Contributions are welcome! Please follow these guidelines:
 For issues, questions, or suggestions:
 
 - **Report Issues**: Open an issue on GitHub
-- **Email**: support@sabil23.com
-- **Discord**: Join our community server
+- **Email**: bouzekriyousouf@gmail.com
+
+
+
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
@@ -612,4 +610,4 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 **Last Updated**: December 2024
 
-For the latest updates and documentation, visit the [GitHub Repository](https://github.com/yourusername/sabil23)
+
